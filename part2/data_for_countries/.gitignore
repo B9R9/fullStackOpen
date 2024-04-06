@@ -5,6 +5,13 @@
 /.pnp
 .pnp.js
 
+# src
+/src/*.css
+/src/*.svg
+/src/reportWebVitals.js
+/src/setupTests.js
+/src/App.test.js
+
 # testing
 /coverage
 
