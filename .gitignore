@@ -1,8 +1,9 @@
 # VSCODE
 /.vscode
-
 /sandbox
 
-.DS_Store
+**/*.DS_Store
 
-/part3
+**/node_modules/
+**/*.env
+
